@@ -1,0 +1,13 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "start": "nodemon src/demo.js",
+    "start:node": "node src/demo.js",
+    "test": ""
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
