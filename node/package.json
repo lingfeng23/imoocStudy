@@ -1,7 +1,9 @@
 {
   "name": "src",
   "version": "1.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "nvm": "0.0.4"
+  },
   "scripts": {
     "start": "nodemon src/demo.js",
     "start:node": "node src/demo.js",
